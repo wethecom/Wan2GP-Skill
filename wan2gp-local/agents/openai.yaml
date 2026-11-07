@@ -1,0 +1,4 @@
+interface:
+  display_name: "Wan2GP Local"
+  short_description: "Generate local images, video, and audio with Wan2GP"
+  default_prompt: "Use $wan2gp-local to generate assets for this project with my installed local models and save the outputs with their prompts and settings."
